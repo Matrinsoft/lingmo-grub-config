@@ -1,4 +1,4 @@
-Source: lingmo-grub-config
+﻿Source: lingmo-grub-config
 Section: lingmo
 Priority: optional
 Maintainer: Lingmo OS Team <team@lingmo.org>
